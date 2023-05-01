@@ -65,11 +65,11 @@ public class NotaCompraItem {
 		this.id = id;
 	}
 
-	public NotaCompra getNotacompra() {
+	public NotaCompra getNotaCompra() {
 		return notacompra;
 	}
 
-	public void setNotacompra(NotaCompra notacompra) {
+	public void setNotaCompra(NotaCompra notacompra) {
 		this.notacompra = notacompra;
 	}
 
